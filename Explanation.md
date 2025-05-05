@@ -27,7 +27,7 @@ This notebook demonstrates the generation of a synthetic dataset based on a give
 - For instance:
   - `Value1`: mean = **9.8**, std = **2.1**
   - `Value2`: mean = **21.0**, std = **6.5**
-- Category probabilities were adjusted to: `[0.19, 0.41, 0.2, 0.1, 0.1]`.
+- Category probabilities were adjusted to: `[0.22, 0.38, 0.2, 0.1, 0.1]`.
 
 ### ✅ Similarity Verification
 
@@ -54,7 +54,7 @@ This notebook demonstrates the generation of a synthetic dataset based on a give
 
 ## ✅ Conclusion
 
-This solution not only produces similar samples, but also provides a **rigorous comparison** using statistical and visual tools. All steps were motivated by a combination of:
+This solution not only produces similar samples but also provides a **rigorous comparison** using statistical and visual tools. All steps were motivated by a combination of:
 - **Exploratory data analysis**
 - **Statistical understanding**
 - **Thoughtful tuning**
