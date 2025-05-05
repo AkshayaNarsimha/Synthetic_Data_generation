@@ -25,8 +25,8 @@ This notebook demonstrates the generation of a synthetic dataset based on a give
 
 - Based on insights from the original dataset, new parameters were **manually chosen** that deviate from the original values yet aim to produce a statistically similar distribution.
 - For instance:
-  - `Value1`: mean = **11.5**, std = **3.1**
-  - `Value2`: mean = **22.0**, std = **6.7**
+  - `Value1`: mean = **9.8**, std = **2.1**
+  - `Value2`: mean = **21.0**, std = **6.5**
 - Category probabilities were adjusted to: `[0.19, 0.41, 0.2, 0.1, 0.1]`.
 
 ### ✅ Similarity Verification
